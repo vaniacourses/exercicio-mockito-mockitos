@@ -1,4 +1,4 @@
 -------------------------------------------------------------------------------
 Test set: jogo.JogoTest
 -------------------------------------------------------------------------------
-Tests run: 0, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0.001 sec - in jogo.JogoTest
+Tests run: 4, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0.809 s -- in jogo.JogoTest
